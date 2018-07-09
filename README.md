@@ -1,1 +1,1 @@
-Simple aesthetic in-content navigation for WordPress
+# Simple aesthetic in-content navigation for WordPress
