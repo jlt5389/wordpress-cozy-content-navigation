@@ -1,1 +1,1 @@
-# wordpress-cozy-content-navigation
+Simple aesthetic in-content navigation for WordPress
